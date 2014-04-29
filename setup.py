@@ -21,7 +21,6 @@
 
 import os
 import sys
-ipmport ferf
 
 try:
     import DistUtilsExtra.auto
